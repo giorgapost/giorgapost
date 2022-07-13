@@ -10,5 +10,4 @@ My name is George Apostolakis and I am a Researcher @ [Technical University of C
 
 # Contact me at:
 - :link: https://www.linkedin.com/in/giorgapost
-- :link: https://giorgapost.github.io/
 - :email: giorgapost@gmail.com
