@@ -4,7 +4,7 @@ My name is George Apostolakis and I am a Researcher @ [Technical University of C
 
 
 # Some of my projects are:
-- [**A simple list implemented in MIPS Assembly**](https://github.com/giorgapost/mips-list-with-factorial)
+- [**A simple list implemented for MIPS processor**](https://github.com/giorgapost/mips-list-with-factorial)
 
 
 
