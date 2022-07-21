@@ -1,4 +1,4 @@
-# :wave: Hello,
+# :wave: Hello
 
 My name is George Apostolakis and I am a Researcher @ [Technical University of Crete](https://www.ece.tuc.gr/index.php?id=4481).
 
