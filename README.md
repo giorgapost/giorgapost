@@ -8,6 +8,7 @@ My name is George Apostolakis and I am a Researcher @ [Technical University of C
 - [**Smith - Waterman algorithm in C++**](https://github.com/giorgapost/smith-waterman-algorithm)
 - [**A collection of convex optimization algorithms**](https://github.com/giorgapost/convex-optimization)
 - [**A simple list implemented for MIPS processor**](https://github.com/giorgapost/mips-list-with-factorial)
+- [**Embedded Distributed Averaging System (EDAS) - Temperature**](https://github.com/giorgapost/edas)
 
 
 
