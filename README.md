@@ -7,7 +7,6 @@ My name is George Apostolakis and I am a Researcher @ [Technical University of C
 - [**A Java package to search for words in ASCII files**](https://github.com/giorgapost/wordsearch-package)
 - [**Smith - Waterman algorithm in C++**](https://github.com/giorgapost/smith-waterman-algorithm)
 - [**A collection of convex optimization algorithms**](https://github.com/giorgapost/convex-optimization)
-- [**Embedded Distributed Averaging System (EDAS) - Temperature**](https://github.com/giorgapost/edas)
 - [**A simple list implemented for MIPS processor**](https://github.com/giorgapost/mips-list-with-factorial)
 
 
