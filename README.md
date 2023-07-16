@@ -1,6 +1,6 @@
 # :wave: Hello
 
-My name is George Apostolakis and I am a Researcher @ [Technical University of Crete](https://www.ece.tuc.gr/index.php?id=4481).
+My name is George Apostolakis and I am a Software Engineer at [Bank of America](https://www.bankofamerica.com/). Previously, I worked as a Researcher at [Technical University of Crete](https://www.ece.tuc.gr/index.php?id=4481).
 
 
 # Some of my projects are:
